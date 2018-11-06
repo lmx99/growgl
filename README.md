@@ -2,7 +2,7 @@
 
 ### Introduce
 This project is mainly to log my growing in gl learning.
-Each tag of this project will be a symbal of a complete learning process.
+Each tag of this project will be a symbol of a complete learning process.
 
 ### Install
 ```
